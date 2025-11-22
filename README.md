@@ -45,5 +45,5 @@ Notes:
 - This project demonstrates logic building & user interaction.
 
 Manahil Rizvi 
-BS Computer Science — UCP  
+BS Computer Science (UCP)  
 5th Semester  
